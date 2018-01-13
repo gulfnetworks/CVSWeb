@@ -1,0 +1,10 @@
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\bin\Debug\netcoreapp2.0\CVSWeb.deps.json
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\bin\Debug\netcoreapp2.0\CVSWeb.runtimeconfig.json
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\bin\Debug\netcoreapp2.0\CVSWeb.runtimeconfig.dev.json
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\bin\Debug\netcoreapp2.0\CVSWeb.dll
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\bin\Debug\netcoreapp2.0\CVSWeb.pdb
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\obj\Debug\netcoreapp2.0\CVSWeb.csproj.CoreCompileInputs.cache
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\obj\Debug\netcoreapp2.0\CVSWeb.AssemblyInfoInputs.cache
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\obj\Debug\netcoreapp2.0\CVSWeb.AssemblyInfo.cs
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\obj\Debug\netcoreapp2.0\CVSWeb.dll
+C:\Users\gnetwork\source\repos\CVSWeb\CVSWeb\obj\Debug\netcoreapp2.0\CVSWeb.pdb
